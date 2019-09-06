@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://moyuup.coding.me/moyu/</id>
+    <id>http://moyuup.github.io</id>
     <title>苏笙博客</title>
-    <updated>2019-09-06T11:43:56.903Z</updated>
+    <updated>2019-09-06T12:22:51.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://moyuup.coding.me/moyu/"/>
-    <link rel="self" href="http://moyuup.coding.me/moyu//atom.xml"/>
+    <link rel="alternate" href="http://moyuup.github.io"/>
+    <link rel="self" href="http://moyuup.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>http://moyuup.coding.me/moyu//images/avatar.png</logo>
-    <icon>http://moyuup.coding.me/moyu//favicon.ico</icon>
+    <logo>http://moyuup.github.io/images/avatar.png</logo>
+    <icon>http://moyuup.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 苏笙博客</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>http://moyuup.coding.me/moyu//post/hello-gridea</id>
-        <link href="http://moyuup.coding.me/moyu//post/hello-gridea">
+        <id>http://moyuup.github.io/post/hello-gridea</id>
+        <link href="http://moyuup.github.io/post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
